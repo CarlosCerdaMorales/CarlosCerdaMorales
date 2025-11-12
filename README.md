@@ -34,10 +34,3 @@ My goal is to keep growing as a software engineer by applying my skills to real-
 
 📧 **cerdamoralescarlos@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/carlos-cerd%C3%A1-morales-86493835b/)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosCerdaMorales&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.vercel.app/?user=CarlosCerdaMorales&theme=tokyonight)
